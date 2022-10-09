@@ -4,3 +4,6 @@ Prueba readme!
 
 watch tutorial
 
+## Local development
+
+1 Open index
